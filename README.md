@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @neethuraj2025
-- 👀 I’m interested in Programming..
-- 🌱 I’m currently learning Data analytics..
+- 👋 Hi, I’m @neethu Raj
+- 👀 I’m interested in Data science & Programming..
+- 🌱 I’m currently learning Data analytics at Edubridge..
 - 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 How to reach me ...
 
